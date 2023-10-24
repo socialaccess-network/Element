@@ -1,0 +1,20 @@
+{
+  "name": "sanet/element",
+  "description": "A set of PHP classes to programmatically create and work with html elements",
+  "type": "library",
+  "autoload": {
+	"psr-4": {
+	  "SANET\\": "src/"
+	}
+  },
+  "authors": [
+	{
+	  "name": "Micheal Pearce",
+	  "email": "michealpearce@socialaccess.network"
+	}
+  ],
+  "minimum-stability": "stable",
+  "require": {
+	"php": ">=8.0.0"
+  }
+}
