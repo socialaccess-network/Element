@@ -1,6 +1,7 @@
 {
   "name": "sanet/element",
   "description": "A set of PHP classes to programmatically create and work with html elements",
+  "version": "1.0.0",
   "type": "library",
   "autoload": {
 	"psr-4": {
